@@ -30,7 +30,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: new AppBar(
-        title: new Text('Rental Mobil + Pasangan'),
+        title: new Text('Rental Mobil'),
         centerTitle: true,
         backgroundColor: Colors.blue,
         actions: <Widget>[
